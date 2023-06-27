@@ -1,2 +1,3 @@
-hi my name is onyx  
-i make stuff, things, etc
+hewo i onyx :3 
+she/they
+i code things!
