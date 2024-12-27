@@ -19,4 +19,4 @@ i code things!
 <br>
 <br>
 <br>
-![badge](https://img.shields.io/badge/can%20you%20tell%20i%20love-shield%20badges-default)
+[![badge](https://img.shields.io/badge/can%20you%20tell%20i%20love-shield%20badges-default)](https://shields.io/)
