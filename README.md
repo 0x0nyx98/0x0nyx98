@@ -20,3 +20,7 @@ i code things!
 <br>
 <br>
 [![badge](https://img.shields.io/badge/can%20you%20tell%20i%20love-shield%20badges-default)](https://shields.io/)
+
+note: <br>
+if github is inactive: i am not dead. i am just locked into drawing/3dmodel/music/modding/writing instead <br>
+i have many interests. coding is not always a priority. please be patient :3
